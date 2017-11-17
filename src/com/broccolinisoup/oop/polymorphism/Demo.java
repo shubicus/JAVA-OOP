@@ -1,4 +1,4 @@
-package com.broccolinisoup.oop.Polymorphism;
+package com.broccolinisoup.oop.polymorphism;
 
 public class Demo {
 	public static void main(String[] args) {
