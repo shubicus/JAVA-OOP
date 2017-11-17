@@ -1,4 +1,4 @@
-package com.broccolinisoup.oop.Polymorphism;
+package com.broccolinisoup.oop.polymorphism;
 
 import java.util.ArrayList;
 import java.util.List;
