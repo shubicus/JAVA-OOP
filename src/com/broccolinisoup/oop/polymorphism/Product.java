@@ -1,4 +1,4 @@
-package com.broccolinisoup.oop.Polymorphism;
+package com.broccolinisoup.oop.polymorphism;
 
 public class Product {
 	public String productName;
